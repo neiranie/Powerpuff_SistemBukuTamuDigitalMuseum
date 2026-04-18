@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace UCP1
 {
-    public partial class Form2 : Form
+    public partial class Form2 : System.Windows.Forms.Form
     {
         private readonly SqlConnection conn;
         private readonly string connectionString =

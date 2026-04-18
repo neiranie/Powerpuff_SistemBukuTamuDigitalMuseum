@@ -54,7 +54,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 82;
             this.dataGridView1.RowTemplate.Height = 33;
-            this.dataGridView1.Size = new System.Drawing.Size(1131, 380);
+            this.dataGridView1.Size = new System.Drawing.Size(1596, 380);
             this.dataGridView1.TabIndex = 7;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -137,9 +137,9 @@
             // 
             // btnMenampilkanData
             // 
-            this.btnMenampilkanData.Location = new System.Drawing.Point(815, 275);
+            this.btnMenampilkanData.Location = new System.Drawing.Point(815, 289);
             this.btnMenampilkanData.Name = "btnMenampilkanData";
-            this.btnMenampilkanData.Size = new System.Drawing.Size(425, 35);
+            this.btnMenampilkanData.Size = new System.Drawing.Size(425, 57);
             this.btnMenampilkanData.TabIndex = 20;
             this.btnMenampilkanData.Text = "Menampilkan Data";
             this.btnMenampilkanData.UseVisualStyleBackColor = true;
@@ -147,9 +147,9 @@
             // 
             // btnMenambahkanData
             // 
-            this.btnMenambahkanData.Location = new System.Drawing.Point(815, 338);
+            this.btnMenambahkanData.Location = new System.Drawing.Point(815, 366);
             this.btnMenambahkanData.Name = "btnMenambahkanData";
-            this.btnMenambahkanData.Size = new System.Drawing.Size(425, 35);
+            this.btnMenambahkanData.Size = new System.Drawing.Size(425, 54);
             this.btnMenambahkanData.TabIndex = 21;
             this.btnMenambahkanData.Text = "Menambahkan Data";
             this.btnMenambahkanData.UseVisualStyleBackColor = true;
@@ -157,9 +157,9 @@
             // 
             // btnMengubahData
             // 
-            this.btnMengubahData.Location = new System.Drawing.Point(815, 402);
+            this.btnMengubahData.Location = new System.Drawing.Point(815, 441);
             this.btnMengubahData.Name = "btnMengubahData";
-            this.btnMengubahData.Size = new System.Drawing.Size(425, 35);
+            this.btnMengubahData.Size = new System.Drawing.Size(425, 54);
             this.btnMengubahData.TabIndex = 22;
             this.btnMengubahData.Text = "Mengubah Data";
             this.btnMengubahData.UseVisualStyleBackColor = true;
@@ -167,9 +167,9 @@
             // 
             // btnMenghapusData
             // 
-            this.btnMenghapusData.Location = new System.Drawing.Point(815, 468);
+            this.btnMenghapusData.Location = new System.Drawing.Point(815, 513);
             this.btnMenghapusData.Name = "btnMenghapusData";
-            this.btnMenghapusData.Size = new System.Drawing.Size(425, 35);
+            this.btnMenghapusData.Size = new System.Drawing.Size(425, 54);
             this.btnMenghapusData.TabIndex = 23;
             this.btnMenghapusData.Text = "Menghapus Data";
             this.btnMenghapusData.UseVisualStyleBackColor = true;
@@ -177,9 +177,9 @@
             // 
             // btnLogout
             // 
-            this.btnLogout.Location = new System.Drawing.Point(815, 532);
+            this.btnLogout.Location = new System.Drawing.Point(1280, 212);
             this.btnLogout.Name = "btnLogout";
-            this.btnLogout.Size = new System.Drawing.Size(425, 35);
+            this.btnLogout.Size = new System.Drawing.Size(425, 54);
             this.btnLogout.TabIndex = 24;
             this.btnLogout.Text = "Logout";
             this.btnLogout.UseVisualStyleBackColor = true;
@@ -189,7 +189,7 @@
             // 
             this.btnMembukaKoneksi.Location = new System.Drawing.Point(815, 212);
             this.btnMembukaKoneksi.Name = "btnMembukaKoneksi";
-            this.btnMembukaKoneksi.Size = new System.Drawing.Size(425, 35);
+            this.btnMembukaKoneksi.Size = new System.Drawing.Size(425, 57);
             this.btnMembukaKoneksi.TabIndex = 25;
             this.btnMembukaKoneksi.Text = "Membuka Koneksi";
             this.btnMembukaKoneksi.UseVisualStyleBackColor = true;
